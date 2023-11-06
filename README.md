@@ -2,7 +2,7 @@
 
 ```javascript
   const Tiago = {
-    fullName: 'Tiago dos Santos Quadros',
+    fullName: 'Tiago "Frames" Quadros',
     status: 'Front-end Instructor at Trybe',
 
     skills: {
