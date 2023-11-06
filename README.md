@@ -11,13 +11,13 @@
       backend: ['Laravel', 'Lumen', 'CodeIgniter', 'MariaDB', 'PostgreSQL'],
       design: ['CorelDRAW', 'Photoshop', 'Figma'],
       others: ['Wordpress', 'Figma', 'Docker', 'Linux'],
-    }
+    },
 
     hobbies: [
       'Music (playing bass)',
       'Gaming (mainly AOE2)',
       'Sleep',
-    ]
+    ],
   }
 ```
 
